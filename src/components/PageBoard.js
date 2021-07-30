@@ -27,4 +27,4 @@ const PageBoard = ({ children }) => {
     </div>)
 }
 
-export default PageBoard
+export default PageBoard 

@@ -32,3 +32,4 @@ export const connectedChain = (state) => state.account.chain;
 export const connectedAccount = (state) => state.account.account;
 
 export default accountSlice.reducer;
+ 
